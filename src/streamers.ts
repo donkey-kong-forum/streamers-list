@@ -4,4 +4,5 @@ export const streamers: Streamer[] = [
   { twitchUsername: "xelnia", dkfUsername: "xelnia" },
   { twitchUsername: "WesCopeland", dkfUsername: "wc" },
   { twitchUsername: "muscleandfitness", dkfUsername: "muscleandfitness" },
+  { twitchUsername: "rayfinkel", dkfUsername: "rayfinkel" },
 ];
