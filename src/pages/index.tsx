@@ -16,6 +16,7 @@ const Home: NextPage<HomePageProps> = ({ liveStreamers }) => {
         alignItems: "center",
         justifyContent: "center",
         fontFamily: "Verdana",
+        fontSize: "12px",
       }}
     >
       <p style={{ fontWeight: "bold", marginBottom: 0 }}>Active Streamers:</p>
