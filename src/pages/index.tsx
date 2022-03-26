@@ -26,6 +26,7 @@ const Home: NextPage<HomePageProps> = ({ liveStreamers }) => {
             <a
               key={liveStreamer.twitchUsername}
               target="_blank"
+              href={`https://twitch.tv/${liveStreamer.twitchUsername}`}
               rel="noreferrer"
             >
               {liveStreamer.dkfUsername ?? liveStreamer.twitchUsername}
