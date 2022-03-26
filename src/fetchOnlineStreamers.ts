@@ -7,7 +7,6 @@ export const fetchOnlineStreamers = async () => {
   const onlineStreamers: Streamer[] = [];
 
   for (const streamerListEntity of streamerListEntities) {
-    console.log(streamerListEntity);
     const isStreamerLive = await getIsStreamerLive(
       streamerListEntity.twitchUsername
     );
