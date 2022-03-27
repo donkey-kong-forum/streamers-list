@@ -5,4 +5,9 @@ export const streamers: Streamer[] = [
   { twitchUsername: "WesCopeland", dkfUsername: "wc" },
   { twitchUsername: "muscleandfitness", dkfUsername: "muscleandfitness" },
   { twitchUsername: "rayfinkel", dkfUsername: "rayfinkel" },
+  { twitchUsername: "futura1978" },
+  { twitchUsername: "up2ng", dkfUsername: "up2ng" },
+  { twitchUsername: "LordBBH", dkfUsername: "BBH" },
+  { twitchUsername: "Prow7", dkfUsername: "Prow" },
+  { twitchUsername: "twitchshane", dkfUsername: "mameshane" },
 ];
