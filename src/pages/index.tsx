@@ -29,7 +29,11 @@ const Home: NextPage<HomePageProps> = ({ liveStreamers }) => {
               href={`https://twitch.tv/${liveStreamer.twitchUsername}`}
               rel="noreferrer"
             >
-              {liveStreamer.dkfUsername ?? liveStreamer.twitchUsername}
+              {liveStreamer.twitchUsername}
+              {liveStreamer.dkfUsername &&
+              liveStreamer.twitchUsername !== liveStreamer.dkfUsername
+                ? ` (${liveStreamer.dkfUsername})`
+                : null}
             </a>
           ))}
         </>
