@@ -248,6 +248,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "battleofthearcades" },
   { twitchUsername: "ChassisArcade" },
   { twitchUsername: "DenverDK" },
+  { twitchUsername: "donkey_kong_forum" },
   { twitchUsername: "FullBlastArcade" },
   { twitchUsername: "GallopingGhostArcade" },
   { twitchUsername: "GallopingGhostClassics" },
