@@ -236,6 +236,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "xelnia", dkfUsername: "xelnia" },
   { twitchUsername: "Xermon54", dkfUsername: "Xermon54" },
   { twitchUsername: "YesAffinity", dkfUsername: "YesAffinity" },
+  { twitchUsername: "zallard1", dkfUsername: "zallard1" },
   { twitchUsername: "Zamboni93", dkfUsername: "zamboni93" },
   { twitchUsername: "Zapwai", dkfUsername: "zapwai" },
   { twitchUsername: "ZedIsDead", dkfUsername: "ZedIsDead" },
