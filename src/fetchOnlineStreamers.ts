@@ -2,8 +2,13 @@ import urlcat from "urlcat";
 
 import { streamers as streamerListEntities } from "./streamers";
 import type { Streamer } from "./streamer.model";
+import { fetchCreationDates } from "./fetchCreationDates";
 
 export const fetchOnlineStreamers = async () => {
+  const creationDates = await fetchCreationDates();
+
+  console.log(JSON.stringify(creationDates));
+
   const onlineStreamers: Streamer[] = [];
 
   for (const streamerListEntity of streamerListEntities) {

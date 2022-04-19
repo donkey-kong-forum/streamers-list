@@ -31,7 +31,8 @@ const Home: NextPage<HomePageProps> = ({ liveStreamers }) => {
             >
               {liveStreamer.twitchUsername}
               {liveStreamer.dkfUsername &&
-              liveStreamer.twitchUsername !== liveStreamer.dkfUsername
+              liveStreamer.twitchUsername.toLowerCase() !==
+                liveStreamer.dkfUsername.toLowerCase()
                 ? ` (${liveStreamer.dkfUsername})`
                 : null}
             </a>
