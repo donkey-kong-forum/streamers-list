@@ -198,6 +198,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "stella_blue", dkfUsername: "stella_blue" },
   { twitchUsername: "Stephen_Boyer", dkfUsername: "ripper" },
   { twitchUsername: "stormdata", dkfUsername: "Hawkins" },
+  { twitchUsername: "stroganoff86" },
   { twitchUsername: "summeraino", dkfUsername: "joekassel" },
   { twitchUsername: "synappzz", dkfUsername: "Synappzz" },
   { twitchUsername: "synthchemist", dkfUsername: "synthchemist" },
