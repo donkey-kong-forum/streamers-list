@@ -85,6 +85,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "f_symbols", dkfUsername: "f_symbols" },
   { twitchUsername: "furiouswolf666", dkfUsername: "furiouswolf666" },
   { twitchUsername: "futura1978" },
+  { twitchUsername: "geekgamer38" },
   { twitchUsername: "Gettysburg1863", dkfUsername: "Gettysburg1863" },
   { twitchUsername: "gillkong", dkfUsername: "GILLYKONG" },
   { twitchUsername: "gregoryerway", dkfUsername: "awesome" },
