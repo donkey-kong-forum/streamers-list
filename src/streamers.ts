@@ -205,7 +205,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "synappzz", dkfUsername: "Synappzz" },
   { twitchUsername: "synthchemist", dkfUsername: "synthchemist" },
   { twitchUsername: "Syscrusher", dkfUsername: "syscrusher" },
-  { twitchUsername: "TAGGSTA", dkfUsername: "Sean_Taggsta_OutRun_86" },
+  { twitchUsername: "TAGGSTA", dkfUsername: "Taggsta" },
   { twitchUsername: "tarkus1977", dkfUsername: "tarkus1977" },
   { twitchUsername: "TBE_SWE", dkfUsername: "TBE" },
   { twitchUsername: "tjb3531", dkfUsername: "tjb3531" },
