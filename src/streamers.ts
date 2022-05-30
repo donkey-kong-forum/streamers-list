@@ -163,6 +163,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "Prow7", dkfUsername: "Prow" },
   { twitchUsername: "QAOP_Spaceman", dkfUsername: "QAOP Spaceman" },
   { twitchUsername: "qbert_ed" },
+  { twitchUsername: "RagingRobin" },
   { twitchUsername: "Ratix98" },
   { twitchUsername: "rayfinkel", dkfUsername: "rayfinkel" },
   { twitchUsername: "Rdrunner0077", dkfUsername: "rdrunner" },
