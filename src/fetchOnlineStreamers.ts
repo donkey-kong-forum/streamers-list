@@ -12,10 +12,15 @@ export const fetchOnlineStreamers = async () => {
     );
 
     if (isStreamerLive) {
+      console.log(`${streamerListEntity.dkfUsername} ${isStreamerLive}`);
+    }
+
+    if (isStreamerLive) {
       onlineStreamers.push(streamerListEntity);
     }
   }
 
+  console.log("all done");
   return onlineStreamers;
 };
 
