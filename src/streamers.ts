@@ -269,6 +269,6 @@ export const streamers: Streamer[] = [
   { twitchUsername: "Retrocade" },
   { twitchUsername: "RetroUp" },
   { twitchUsername: "vortexarcadeAR", dkfUsername: "vortexarcade" },
-  { twitchUsername: "VortexClassicArcade", dkfUsername: "vortexarcade" }
+  { twitchUsername: "VortexClassicArcade", dkfUsername: "vortexarcade" },
   { twitchUsername: "Z82RetrocadeSherwood" },
 ];
