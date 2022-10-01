@@ -253,7 +253,11 @@ export const streamers: Streamer[] = [
   { twitchUsername: "Ziiggys", dkfUsername: "Ziggy" },
   { twitchUsername: "Zmick_tricK", dkfUsername: "Zmick_tricK" },
   { twitchUsername: "Zotmeister" },
-  { twitchUsername: "2084arcade" }, // Arcade or organization streams start here
+
+  /*************************************************
+   * Arcade or organization streams start here. 
+   *************************************************/
+  { twitchUsername: "2084arcade" },
   { twitchUsername: "battleofthearcades" },
   { twitchUsername: "ChassisArcade" },
   { twitchUsername: "DenverDK" },
