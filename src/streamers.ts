@@ -238,6 +238,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "VeryApe121", dkfUsername: "VeryApe121" },
   { twitchUsername: "weiwovaseiba", dkfUsername: "weiwovaseiba" },
   { twitchUsername: "WesCopeland", dkfUsername: "wc" },
+  { twitchUsername: "RealBigGamer", dkfUsername: "wc" },
   { twitchUsername: "WFLImusic", dkfUsername: "wflimusic" },
   { twitchUsername: "wv_pinball", dkfUsername: "wvapinball" },
   { twitchUsername: "wwdkong", dkfUsername: "ww" },
