@@ -146,7 +146,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "MrDontsMileRide", dkfUsername: "MrDontsMildride" }, // Guest
   { twitchUsername: "MrPitchy", dkfUsername: "Itsmrpitchy" },
   { twitchUsername: "mrvaya", dkfUsername: "mrvaya" },
-  { twitchUsername: "mschrock26", dkfUsername: "M.Schrock" },
+  { twitchUsername: "mschrock", dkfUsername: "M.Schrock" },
   { twitchUsername: "MultifariousGamer" },
   { twitchUsername: "Muscleandfitness", dkfUsername: "muscleandfitness" },
   { twitchUsername: "nsheeks" },
