@@ -169,7 +169,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "qbert_ed" },
   { twitchUsername: "RagingRobin" },
   { twitchUsername: "Ratix98" },
-  { twitchUsername: "rayfinkeI", dkfUsername: "rayfinkel" },
+  { twitchUsername: "rayfinkel", dkfUsername: "rayfinkel" },
   { twitchUsername: "Rdrunner0077", dkfUsername: "rdrunner" },
   { twitchUsername: "rdy_plr1", dkfUsername: "Les.coffman" },
   { twitchUsername: "reinke0314", dkfUsername: "Reinke314" },
