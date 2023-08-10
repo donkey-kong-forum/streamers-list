@@ -58,7 +58,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "djgubernot", dkfUsername: "djgubernot1" },
   { twitchUsername: "dk3champ", dkfUsername: "homerwannabee" },
   { twitchUsername: "dk_1981", dkfUsername: "Matt" },
-  { twitchUsername: "DK_madness", dkfUsername: "Dk_madness" },
+  { twitchUsername: "Sega_Madness", dkfUsername: "Dk_madness" },
   { twitchUsername: "DKMikey77", dkfUsername: "VIMikey" },
   { twitchUsername: "dknetter", dkfUsername: "dknetter" },
   { twitchUsername: "dollopuss", dkfUsername: "dollopuss" },
