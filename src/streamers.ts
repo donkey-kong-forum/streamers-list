@@ -97,6 +97,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "hankchien", dkfUsername: "hchien" },
   { twitchUsername: "hansvskong" },
   { twitchUsername: "ILLSeaBass", dkfUsername: "ILLSeaBass" },
+  { twitchUsername: "Jakey_Joe", dkfUsername: "Over_Score" },
   { twitchUsername: "jammyyy", dkfUsername: "jammyyy" },
   { twitchUsername: "JasonV91", dkfUsername: "JasonV91" },
   { twitchUsername: "jbeannie05", dkfUsername: "jbeannie05" },
