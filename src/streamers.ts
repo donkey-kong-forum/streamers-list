@@ -6,7 +6,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "172012", dkfUsername: "Nick_D" },
   { twitchUsername: "80sArcadeKid", dkfUsername: "80sArcadeKid" },
   { twitchUsername: "879500", dkfUsername: "879500" },
-  { twitchUsername: "AaronTroott", dkfUsername: "aarontruitt" },
+  { twitchUsername: "AaronTroot", dkfUsername: "aarontruitt" },
   { twitchUsername: "acrjoey" },
   { twitchUsername: "aftershoke" },
   { twitchUsername: "alumbrada", dkfUsername: "alumbrada" },
