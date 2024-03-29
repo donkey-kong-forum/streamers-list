@@ -125,7 +125,6 @@ export const streamers: Streamer[] = [
   { twitchUsername: "laurakingneville", dkfUsername: "LauraKingNeville" },
   { twitchUsername: "LifeReboot", dkfUsername: "lifereboot" },
   { twitchUsername: "Lmdave", dkfUsername: "LMDAVE" },
-  { twitchUsername: "LordBBH", dkfUsername: "BBH" },
   { twitchUsername: "LSB85", dkfUsername: "elbee85" },
   { twitchUsername: "Lyriell", dkfUsername: "Lyriell" },
   { twitchUsername: "magrinder", dkfUsername: "Max" },
