@@ -91,6 +91,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "geekgamer38" },
   { twitchUsername: "Gettysburg1863", dkfUsername: "Gettysburg1863" },
   { twitchUsername: "gillkong", dkfUsername: "GILLYKONG" },
+  { twitchUsername: "GreenTieGames", dkfUsername: "GreenTie" },
   { twitchUsername: "gregoryerway", dkfUsername: "awesome" },
   { twitchUsername: "gstrain", dkfUsername: "gstrain" },
   { twitchUsername: "hanasu", dkfUsername: "ebinsugewa" },
