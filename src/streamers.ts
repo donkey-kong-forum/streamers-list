@@ -39,7 +39,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "cntipd", dkfUsername: "dbh" },
   { twitchUsername: "colmanARCADEgamer", dkfUsername: "colman paolo" },
   { twitchUsername: "craighiphopfish", dkfUsername: "craighiphopfish" },
-  { twitchUsername: "crazyfox351", dkfUsername: "crazyfox351" },
+  { twitchUsername: "crzyf0x", dkfUsername: "crazyfox351" },
   { twitchUsername: "creech777", dkfUsername: "creech" },
   { twitchUsername: "croolis3", dkfUsername: "croolis" },
   { twitchUsername: "crotea", dkfUsername: "tom bradley" }, // Guest
