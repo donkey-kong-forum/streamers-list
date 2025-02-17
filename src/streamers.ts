@@ -119,6 +119,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "kaizen088" },
   { twitchUsername: "kalel99999", dkfUsername: "kalel" },
   { twitchUsername: "Kencade", dkfUsername: "Scoundrl" },
+  { twitchUsername: "kenneyaf", dkfUsername: "kenneyaf" },
   { twitchUsername: "Kewydee_17", dkfUsername: "Kewydee_17" },
   { twitchUsername: "KrehzTim", dkfUsername: "krehztim" },
   { twitchUsername: "kibbey", dkfUsername: "Kibbey93" },
