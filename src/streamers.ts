@@ -20,6 +20,7 @@ export const streamers: Streamer[] = [
   { twitchUsername: "BackdoorFred", dkfUsername: "BackdoorFred" },
   { twitchUsername: "barrra", dkfUsername: "Barra" },
   { twitchUsername: "bensweeneyonbass", dkfUsername: "bensweeneyonbass" },
+  { twitchUsername: "BillDire", dkfUsername: "lycant" },
   { twitchUsername: "Billhouse", dkfUsername: "Billhouse" },
   { twitchUsername: "BillyGaines", dkfUsername: "BillyGaines" },
   { twitchUsername: "bonerforce75", dkfUsername: "bonerforce" },
