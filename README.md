@@ -15,7 +15,7 @@ This repository maintains the list of Twitch streamers for the Donkey Kong Forum
    - `dkfUsername` is optional (their forum display name, if different)
 
 3. Commit and push your changes to the `main` branch
-4. The list will automatically update within 5 minutes
+4. The list will automatically update within a few minutes
 
 ### Removing a Streamer
 
