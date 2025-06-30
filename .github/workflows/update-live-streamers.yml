@@ -24,19 +24,20 @@ jobs:
     - name: Get Twitch Access Token
       id: twitch_auth
       run: |
-        RESPONSE=$(curl -X POST 'https://id.twitch.tv/oauth2/token' \
+        RESPONSE=$(curl -s -X POST 'https://id.twitch.tv/oauth2/token' \
           -H 'Content-Type: application/x-www-form-urlencoded' \
-          -d "client_id=${{ secrets.TWITCH_CLIENT_ID }}&client_secret=${{ secrets.TWITCH_CLIENT_SECRET }}&grant_type=client_credentials")
+          -d "client_id=${{ vars.TWITCH_CLIENT_ID }}&client_secret=${{ secrets.TWITCH_CLIENT_SECRET }}&grant_type=client_credentials")
         
+        echo "Response: $RESPONSE"
         ACCESS_TOKEN=$(echo $RESPONSE | jq -r '.access_token')
-        echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_OUTPUT
+        echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_ENV
     
     - name: Check Live Streamers
       run: |
         node scripts/check-live-streamers.js
       env:
-        TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
-        TWITCH_ACCESS_TOKEN: ${{ steps.twitch_auth.outputs.ACCESS_TOKEN }}
+        TWITCH_CLIENT_ID: ${{ vars.TWITCH_CLIENT_ID }}
+        TWITCH_ACCESS_TOKEN: ${{ env.ACCESS_TOKEN }}
     
     - name: Deploy to GitHub Pages
       run: |
