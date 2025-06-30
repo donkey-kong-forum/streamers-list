@@ -15,7 +15,7 @@ This repository maintains the list of Twitch streamers for the Donkey Kong Forum
    - `dkfUsername` is optional (their forum display name, if different)
 
 3. Commit and push your changes to the `main` branch
-4. The list will automatically update within 2 minutes
+4. The list will automatically update within 5 minutes
 
 ### Removing a Streamer
 
@@ -34,7 +34,7 @@ This repository maintains the list of Twitch streamers for the Donkey Kong Forum
 
 ## How It Works
 
-1. **GitHub Actions** runs every 2 minutes to check which streamers are live
+1. **GitHub Actions** runs every 5 minutes to check which streamers are live
 2. It fetches the `streamers.json` list and queries the Twitch API
 3. Results are saved to `live-streamers.json` on GitHub Pages
 4. The forum displays this pre-computed list (no server load!)
@@ -44,7 +44,7 @@ This repository maintains the list of Twitch streamers for the Donkey Kong Forum
 - **Automatic Token Refresh**: The GitHub Action automatically gets fresh Twitch tokens
 - **Zero Server Load**: All processing happens on GitHub's infrastructure
 - **Fast Loading**: The forum only needs to fetch a small JSON file
-- **Caching**: Results are cached for 2 minutes to reduce requests
+- **Caching**: Results are cached for 5 minutes to reduce requests
 
 ## Files
 
