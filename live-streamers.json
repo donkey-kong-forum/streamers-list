@@ -1,0 +1,29 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "ArcadePlayer_ABC",
+      "dkfUsername": "ArcadePlayer_ABC",
+      "streamData": {
+        "title": "RETRO 1CreditClear 1LifeClear + MAMESCORE",
+        "game": "Retro",
+        "viewers": 2,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arcadeplayer_abc-{width}x{height}.jpg",
+        "startedAt": "2025-07-05T12:50:24Z"
+      }
+    },
+    {
+      "twitchUsername": "mattbuc16",
+      "dkfUsername": "mattbuc16",
+      "streamData": {
+        "title": "Donkey Kong arcade + music",
+        "game": "Retro",
+        "viewers": 6,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mattbuc16-{width}x{height}.jpg",
+        "startedAt": "2025-07-06T00:19:52Z"
+      }
+    }
+  ],
+  "updated": "2025-07-06T01:06:11.687Z",
+  "totalStreamers": 280,
+  "liveCount": 2
+}
