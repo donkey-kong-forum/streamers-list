@@ -1,0 +1,18 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "joecnnd",
+      "dkfUsername": "Bliss1083",
+      "streamData": {
+        "title": "One of the Donkey Kong games",
+        "game": "Retro",
+        "viewers": 2,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_joecnnd-{width}x{height}.jpg",
+        "startedAt": "2025-11-16T07:40:03Z"
+      }
+    }
+  ],
+  "updated": "2025-11-16T08:06:14.003Z",
+  "totalStreamers": 282,
+  "liveCount": 1
+}
