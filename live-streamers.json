@@ -1,0 +1,39 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "dtaylorkong",
+      "dkfUsername": "Dallas Taylor",
+      "streamData": {
+        "title": "Triathlakong",
+        "game": "Retro",
+        "viewers": 7,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dtaylorkong-{width}x{height}.jpg",
+        "startedAt": "2025-11-23T04:40:04Z"
+      }
+    },
+    {
+      "twitchUsername": "mattbuc16",
+      "dkfUsername": "mattbuc16",
+      "streamData": {
+        "title": "UNHINGED!!! - Grinding Donkey Kong + so much fun ... lol",
+        "game": "Retro",
+        "viewers": 9,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mattbuc16-{width}x{height}.jpg",
+        "startedAt": "2025-11-23T07:28:37Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "[REPLAY] Platformer Showcase & Bō: Path of the Teal Lotus #sponsored showcase - More Live Hotfix Sunday @ 1PM Eastern gdq.gg/hotfix/schedule",
+        "game": "Retro",
+        "viewers": 692,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2025-11-22T17:50:17Z"
+      }
+    }
+  ],
+  "updated": "2025-11-23T07:38:15.193Z",
+  "totalStreamers": 282,
+  "liveCount": 3
+}
