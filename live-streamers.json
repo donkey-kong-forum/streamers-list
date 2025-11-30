@@ -1,0 +1,28 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "dk_madness",
+      "dkfUsername": "dk_madness",
+      "streamData": {
+        "title": "Donkey Kong - Triple Kong Challenge",
+        "game": "Retro",
+        "viewers": 3,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dk_madness-{width}x{height}.jpg",
+        "startedAt": "2025-11-30T17:09:44Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Disability & Neurodiversity special Day 2 Benefiting AWN Network - Kirby & The Amazing Mirror by @BeamQueenSol !DND !donate",
+        "game": "Kirby & the Amazing Mirror",
+        "viewers": 1066,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2025-11-29T17:51:17Z"
+      }
+    }
+  ],
+  "updated": "2025-11-30T18:20:13.848Z",
+  "totalStreamers": 282,
+  "liveCount": 2
+}
