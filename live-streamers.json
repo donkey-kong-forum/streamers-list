@@ -1,0 +1,17 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Make Your Own Victory - Metroid Dread Max% Kraid by @manijure !MYoV !BAF !AGDQ !FF",
+        "game": "Metroid Dread",
+        "viewers": 960,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2025-12-06T17:50:43Z"
+      }
+    }
+  ],
+  "updated": "2025-12-06T22:24:13.209Z",
+  "totalStreamers": 282,
+  "liveCount": 1
+}
