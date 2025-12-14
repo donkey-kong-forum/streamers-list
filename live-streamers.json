@@ -1,0 +1,72 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "1971printer",
+      "dkfUsername": "1971printer",
+      "streamData": {
+        "title": "Retro",
+        "game": "",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1971printer-{width}x{height}.jpg",
+        "startedAt": "2025-12-13T07:13:02Z"
+      }
+    },
+    {
+      "twitchUsername": "Muscleandfitness",
+      "dkfUsername": "muscleandfitness",
+      "streamData": {
+        "title": "Million Points soon",
+        "game": "Retro",
+        "viewers": 21,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_muscleandfitness-{width}x{height}.jpg",
+        "startedAt": "2025-12-14T03:25:23Z"
+      }
+    },
+    {
+      "twitchUsername": "mattbuc16",
+      "dkfUsername": "mattbuc16",
+      "streamData": {
+        "title": "Donkey Kong Jr or DK ... or Atari ... AND most importantly JUST FUNNNNNnnnnn",
+        "game": "Retro",
+        "viewers": 7,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mattbuc16-{width}x{height}.jpg",
+        "startedAt": "2025-12-14T03:23:03Z"
+      }
+    },
+    {
+      "twitchUsername": "JasonV91",
+      "dkfUsername": "JasonV91",
+      "streamData": {
+        "title": "Random MAME, DOS, Atari games",
+        "game": "Retro",
+        "viewers": 3,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jasonv91-{width}x{height}.jpg",
+        "startedAt": "2025-12-14T03:41:53Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "[REPLAY] Oops All Zelda! Day 1 - Day 2 Live Sunday @ 1PM Eastern gdq.gg/hotfix/schedule",
+        "game": "The Legend of Zelda",
+        "viewers": 1343,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2025-12-13T17:52:05Z"
+      }
+    },
+    {
+      "twitchUsername": "the_pro",
+      "dkfUsername": "The Pro",
+      "streamData": {
+        "title": "Oracle of seasons first playthrough",
+        "game": "The Legend of Zelda: Oracle of Seasons",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_the_pro-{width}x{height}.jpg",
+        "startedAt": "2025-12-14T03:22:22Z"
+      }
+    }
+  ],
+  "updated": "2025-12-14T03:48:15.153Z",
+  "totalStreamers": 282,
+  "liveCount": 6
+}
