@@ -1,0 +1,18 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "FirebirdTPG",
+      "dkfUsername": "FirebirdTPG",
+      "streamData": {
+        "title": "Back to some 3D Printing!!!",
+        "game": "Makers & Crafting",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firebirdtpg-{width}x{height}.jpg",
+        "startedAt": "2025-12-27T08:05:11Z"
+      }
+    }
+  ],
+  "updated": "2025-12-27T16:44:13.517Z",
+  "totalStreamers": 282,
+  "liveCount": 1
+}
