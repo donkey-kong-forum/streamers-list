@@ -1,0 +1,18 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "CharlieFar",
+      "dkfUsername": "CharlieFar",
+      "streamData": {
+        "title": "Happy New Year! | Ys Book I & II (TurboGrafx-CD) - Part 2 | First Playthrough | !discord",
+        "game": "Retro",
+        "viewers": 53,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charliefar-{width}x{height}.jpg",
+        "startedAt": "2026-01-03T20:02:08Z"
+      }
+    }
+  ],
+  "updated": "2026-01-03T21:40:12.987Z",
+  "totalStreamers": 282,
+  "liveCount": 1
+}
