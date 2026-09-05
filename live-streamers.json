@@ -1,0 +1,38 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "FirebirdTPG",
+      "dkfUsername": "FirebirdTPG",
+      "streamData": {
+        "title": "Doing some more 3D Prints!",
+        "game": "Makers & Crafting",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firebirdtpg-{width}x{height}.jpg",
+        "startedAt": "2026-09-04T03:08:13Z"
+      }
+    },
+    {
+      "twitchUsername": "Pinge_Hjo",
+      "streamData": {
+        "title": "Saturday With Guest(s)! Arcade & Scotch! !allgames Welcome in!",
+        "game": "Retro",
+        "viewers": 15,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pinge_hjo-{width}x{height}.jpg",
+        "startedAt": "2026-09-05T18:06:46Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "GDQ @ PAX West 2026 - Super Monkey Ball Adventure - !PAX !schedule",
+        "game": "Super Monkey Ball Adventure",
+        "viewers": 1096,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-09-05T17:31:55Z"
+      }
+    }
+  ],
+  "updated": "2026-09-05T19:02:13.570Z",
+  "totalStreamers": 283,
+  "liveCount": 3
+}
