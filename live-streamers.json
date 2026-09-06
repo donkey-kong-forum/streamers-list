@@ -1,0 +1,28 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "FirebirdTPG",
+      "dkfUsername": "FirebirdTPG",
+      "streamData": {
+        "title": "Doing some more 3D Prints!",
+        "game": "Makers & Crafting",
+        "viewers": 6,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firebirdtpg-{width}x{height}.jpg",
+        "startedAt": "2026-09-06T03:08:16Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "GDQ @ PAX West 2026 - Super Mario All-Stars - !PAX !schedule",
+        "game": "Super Mario Bros.: The Lost Levels",
+        "viewers": 2033,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-09-06T17:40:45Z"
+      }
+    }
+  ],
+  "updated": "2026-09-06T22:08:13.986Z",
+  "totalStreamers": 283,
+  "liveCount": 2
+}
