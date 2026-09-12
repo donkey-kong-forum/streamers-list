@@ -1,0 +1,73 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "Its8BitBoyUK",
+      "dkfUsername": "8BitBoyUK",
+      "streamData": {
+        "title": "Donkey Kong",
+        "game": "Retro",
+        "viewers": 11,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_its8bitboyuk-{width}x{height}.jpg",
+        "startedAt": "2026-09-12T18:07:25Z"
+      }
+    },
+    {
+      "twitchUsername": "FirebirdTPG",
+      "dkfUsername": "FirebirdTPG",
+      "streamData": {
+        "title": "Doing some more 3D Prints!",
+        "game": "Makers & Crafting",
+        "viewers": 5,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firebirdtpg-{width}x{height}.jpg",
+        "startedAt": "2026-09-11T20:48:21Z"
+      }
+    },
+    {
+      "twitchUsername": "Durden77",
+      "dkfUsername": "durden77",
+      "streamData": {
+        "title": "Marvel Rivals with MC_H8erade! | Ranked match grind | Silver couple with a dream",
+        "game": "Marvel Rivals",
+        "viewers": 4,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_durden77-{width}x{height}.jpg",
+        "startedAt": "2026-09-12T19:22:10Z"
+      }
+    },
+    {
+      "twitchUsername": "dtaylorkong",
+      "dkfUsername": "Dallas Taylor",
+      "streamData": {
+        "title": "Donkey Kong",
+        "game": "Retro",
+        "viewers": 3,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dtaylorkong-{width}x{height}.jpg",
+        "startedAt": "2026-09-12T18:59:13Z"
+      }
+    },
+    {
+      "twitchUsername": "dk_madness",
+      "dkfUsername": "dk_madness",
+      "streamData": {
+        "title": "Satan's Hollow grind till kill screen....",
+        "game": "Retro",
+        "viewers": 4,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dk_madness-{width}x{height}.jpg",
+        "startedAt": "2026-09-12T18:10:42Z"
+      }
+    },
+    {
+      "twitchUsername": "kenneyaf",
+      "dkfUsername": "kenneyaf",
+      "streamData": {
+        "title": "DK Dance Party 🐒 TRUITT TRIALS",
+        "game": "Retro",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kenneyaf-{width}x{height}.jpg",
+        "startedAt": "2026-09-12T17:55:24Z"
+      }
+    }
+  ],
+  "updated": "2026-09-12T19:26:15.122Z",
+  "totalStreamers": 283,
+  "liveCount": 6
+}
