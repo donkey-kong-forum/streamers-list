@@ -1,0 +1,39 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "dtaylorkong",
+      "dkfUsername": "Dallas Taylor",
+      "streamData": {
+        "title": "Donkey Kong",
+        "game": "Retro",
+        "viewers": 6,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dtaylorkong-{width}x{height}.jpg",
+        "startedAt": "2026-09-19T19:27:00Z"
+      }
+    },
+    {
+      "twitchUsername": "dk_madness",
+      "dkfUsername": "dk_madness",
+      "streamData": {
+        "title": "Satan's Hollow grind till kill screen....",
+        "game": "Retro",
+        "viewers": 10,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dk_madness-{width}x{height}.jpg",
+        "startedAt": "2026-09-19T18:20:33Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Flame Fatales 2026 benefiting Malala Fund - Slay the Spire II !schedule !donate",
+        "game": "Slay the Spire II",
+        "viewers": 2644,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-09-18T16:09:54Z"
+      }
+    }
+  ],
+  "updated": "2026-09-19T20:14:15.969Z",
+  "totalStreamers": 284,
+  "liveCount": 3
+}
