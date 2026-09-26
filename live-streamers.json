@@ -1,0 +1,72 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "CharlieFar",
+      "dkfUsername": "CharlieFar",
+      "streamData": {
+        "title": "Super Secret Saturday SPECTember Special - Taking your ZX SPECTRUM Requests!",
+        "game": "Retro",
+        "viewers": 66,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charliefar-{width}x{height}.jpg",
+        "startedAt": "2026-09-26T18:30:11Z"
+      }
+    },
+    {
+      "twitchUsername": "Durden77",
+      "dkfUsername": "durden77",
+      "streamData": {
+        "title": "Resident Evil Zero | Part 2 | Billy Boy and Rebecca Strike BACK | SPOOooooKY Saturday",
+        "game": "Resident Evil Zero",
+        "viewers": 7,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_durden77-{width}x{height}.jpg",
+        "startedAt": "2026-09-26T21:33:58Z"
+      }
+    },
+    {
+      "twitchUsername": "FirebirdTPG",
+      "dkfUsername": "FirebirdTPG",
+      "streamData": {
+        "title": "Doing some more 3D Prints!",
+        "game": "Makers & Crafting",
+        "viewers": 4,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firebirdtpg-{width}x{height}.jpg",
+        "startedAt": "2026-09-25T04:52:13Z"
+      }
+    },
+    {
+      "twitchUsername": "Falcor781",
+      "dkfUsername": "falcor781",
+      "streamData": {
+        "title": "fun gaming time",
+        "game": "Black Widow",
+        "viewers": 2,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_falcor781-{width}x{height}.jpg",
+        "startedAt": "2026-09-26T23:17:21Z"
+      }
+    },
+    {
+      "twitchUsername": "Retrogaming2084",
+      "dkfUsername": "JoshtheGamer",
+      "streamData": {
+        "title": "wiz: absence of misericordia",
+        "game": "Wizardry: The Five Ordeals",
+        "viewers": 6,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_retrogaming2084-{width}x{height}.jpg",
+        "startedAt": "2026-09-26T18:17:08Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Final Fantasy Tactics The Ivalice Chronicles Any% Squire by @SloaTheDemon - Remake Special - !hotfix !schedule",
+        "game": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+        "viewers": 979,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-09-26T16:51:02Z"
+      }
+    }
+  ],
+  "updated": "2026-09-26T23:24:12.394Z",
+  "totalStreamers": 284,
+  "liveCount": 6
+}
