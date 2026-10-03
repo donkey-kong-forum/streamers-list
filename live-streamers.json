@@ -1,0 +1,39 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "Its8BitBoyUK",
+      "dkfUsername": "8BitBoyUK",
+      "streamData": {
+        "title": "Donkey Kong",
+        "game": "Retro",
+        "viewers": 16,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_its8bitboyuk-{width}x{height}.jpg",
+        "startedAt": "2026-10-03T14:09:22Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Spyro Reignited Trilogy - Spyro 1 80 Dragons NBS by @Toronite - GDQueer 2026 - !GDQueer !schedule",
+        "game": "Spyro the Dragon",
+        "viewers": 576,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-10-03T16:50:40Z"
+      }
+    },
+    {
+      "twitchUsername": "VortexClassicArcade",
+      "dkfUsername": "vortexarcade",
+      "streamData": {
+        "title": "Kong Klash 16 Stream Day 2",
+        "game": "Retro",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vortexclassicarcade-{width}x{height}.jpg",
+        "startedAt": "2026-10-03T13:52:07Z"
+      }
+    }
+  ],
+  "updated": "2026-10-03T17:04:14.272Z",
+  "totalStreamers": 284,
+  "liveCount": 3
+}
