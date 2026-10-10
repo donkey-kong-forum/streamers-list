@@ -1,0 +1,49 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "dtaylorkong",
+      "dkfUsername": "Dallas Taylor",
+      "streamData": {
+        "title": "Donkey Kong",
+        "game": "Retro",
+        "viewers": 8,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dtaylorkong-{width}x{height}.jpg",
+        "startedAt": "2026-10-10T19:41:25Z"
+      }
+    },
+    {
+      "twitchUsername": "Durden77",
+      "dkfUsername": "durden77",
+      "streamData": {
+        "title": "DB Breakers 4th Anniversary! | XP out the wazoo, it's a celebration Bs.",
+        "game": "Dragon Ball: The Breakers",
+        "viewers": 5,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_durden77-{width}x{height}.jpg",
+        "startedAt": "2026-10-10T19:00:15Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Sonic Project Reignition Any% by @SinDarkFatez - Hispanic Heritage Month Celebration - !LHS !Hotfix !schedule",
+        "game": "Sonic and the Secret Rings",
+        "viewers": 661,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-10-10T16:50:12Z"
+      }
+    },
+    {
+      "twitchUsername": "Zotmeister",
+      "streamData": {
+        "title": "Civilization: Call to Power TOO MANY CIVS Edition | !cartrouble !forsale | !stratmath | !mastodon",
+        "game": "Retro",
+        "viewers": 11,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zotmeister-{width}x{height}.jpg",
+        "startedAt": "2026-10-10T17:29:46Z"
+      }
+    }
+  ],
+  "updated": "2026-10-10T20:04:13.375Z",
+  "totalStreamers": 284,
+  "liveCount": 4
+}
