@@ -1,0 +1,28 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "FirebirdTPG",
+      "dkfUsername": "FirebirdTPG",
+      "streamData": {
+        "title": "Doing some more 3D Prints!",
+        "game": "Makers & Crafting",
+        "viewers": 2,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firebirdtpg-{width}x{height}.jpg",
+        "startedAt": "2026-10-17T08:56:00Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Resident Evil 4 REmake Any% Standard by @jadeycake_ - Fright Fatales - !FF !hotfix !schedule",
+        "game": "Resident Evil 4",
+        "viewers": 728,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-10-17T16:51:32Z"
+      }
+    }
+  ],
+  "updated": "2026-10-17T18:12:14.784Z",
+  "totalStreamers": 284,
+  "liveCount": 2
+}
