@@ -1,0 +1,28 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "FirebirdTPG",
+      "dkfUsername": "FirebirdTPG",
+      "streamData": {
+        "title": "Doing some more 3D Prints!",
+        "game": "Makers & Crafting",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firebirdtpg-{width}x{height}.jpg",
+        "startedAt": "2026-10-31T00:23:36Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Ratshaker Survival by @BigScared - Oops! I'm Scared! - !hotfix !schedule",
+        "game": "Ratshaker",
+        "viewers": 546,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-10-31T16:49:55Z"
+      }
+    }
+  ],
+  "updated": "2026-10-31T18:30:13.936Z",
+  "totalStreamers": 284,
+  "liveCount": 2
+}
