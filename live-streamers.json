@@ -1,0 +1,28 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "dk_madness",
+      "dkfUsername": "dk_madness",
+      "streamData": {
+        "title": "Alpha Gaming....",
+        "game": "Retro",
+        "viewers": 3,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dk_madness-{width}x{height}.jpg",
+        "startedAt": "2026-11-07T18:26:42Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Pokémon Battle Revolution All Masters Battles by @PeasSMB - Pokémon Spinoff Showcase - !hotfix !schedule",
+        "game": "Pokémon Battle Revolution",
+        "viewers": 536,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-11-07T17:51:09Z"
+      }
+    }
+  ],
+  "updated": "2026-11-07T18:48:14.633Z",
+  "totalStreamers": 284,
+  "liveCount": 2
+}
