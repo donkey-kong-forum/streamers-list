@@ -1,0 +1,18 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "Its8BitBoyUK",
+      "dkfUsername": "8BitBoyUK",
+      "streamData": {
+        "title": "DONKEY KONG",
+        "game": "Retro",
+        "viewers": 7,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_its8bitboyuk-{width}x{height}.jpg",
+        "startedAt": "2026-11-21T12:11:51Z"
+      }
+    }
+  ],
+  "updated": "2026-11-21T12:42:17.293Z",
+  "totalStreamers": 284,
+  "liveCount": 1
+}
