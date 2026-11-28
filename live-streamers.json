@@ -1,0 +1,49 @@
+{
+  "streamers": [
+    {
+      "twitchUsername": "Pinge_Hjo",
+      "streamData": {
+        "title": "12h Arcade Stream! The_Shed_Arcade & SpectreDK in the basement! Donkey Kong & 1cc Attempts! Welcome in!",
+        "game": "Retro",
+        "viewers": 26,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pinge_hjo-{width}x{height}.jpg",
+        "startedAt": "2026-11-28T10:46:58Z"
+      }
+    },
+    {
+      "twitchUsername": "GamesDoneQuick",
+      "streamData": {
+        "title": "Jet Set Radio Future Any% by @naestrinus - Hotfix Sports Day - !hotfix !schedule",
+        "game": "Jet Set Radio Future",
+        "viewers": 892,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-{width}x{height}.jpg",
+        "startedAt": "2026-11-28T17:48:13Z"
+      }
+    },
+    {
+      "twitchUsername": "Syscrusher",
+      "dkfUsername": "syscrusher",
+      "streamData": {
+        "title": "MAME",
+        "game": "Retro",
+        "viewers": 5,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syscrusher-{width}x{height}.jpg",
+        "startedAt": "2026-11-28T19:43:14Z"
+      }
+    },
+    {
+      "twitchUsername": "Zapwai",
+      "dkfUsername": "zapwai",
+      "streamData": {
+        "title": "Celeste! (Finishing my first playthrough)",
+        "game": "Celeste",
+        "viewers": 1,
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zapwai-{width}x{height}.jpg",
+        "startedAt": "2026-11-28T18:59:59Z"
+      }
+    }
+  ],
+  "updated": "2026-11-28T19:46:13.646Z",
+  "totalStreamers": 284,
+  "liveCount": 4
+}
